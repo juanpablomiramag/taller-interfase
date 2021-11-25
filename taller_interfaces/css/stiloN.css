@@ -1,0 +1,179 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(0, 0, 0);
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.texto1{
+    display: flex;
+    
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+.diseño h2{
+    color: white;
+}
+.multimendia h2{
+    color: rgb(56, 137, 230);
+}
+
+.linea1{
+    background-color: rgb(56, 137, 230);;
+    height: 5px;
+}
+nav{
+    height: 100px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+nav h2{
+    color: white;
+    font-size: 20px;
+}
+
+button{
+    background-color: rgb(240, 73, 44);
+    border-color:  rgb(240, 73, 44);
+    height: 35px;
+    width: 100px;
+}
+input{
+    height: 30px;
+    width: 200px;
+}
+
+footer{
+    height: 60px;
+    background-color: rgb(62, 178, 255);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+.contenido{
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    padding: 20px 70px;
+    
+}
+.izquierda{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: space-aro;
+    
+}
+
+
+.imagen{
+    background-size: cover;
+}
+.imagen img{
+    width: 1100px;
+    height: 200px;
+}
+.titulo{
+    padding: 10px 0px;
+}
+
+.texto1 p{
+    color: black;
+    width: 1100px;
+}
+.texto2{
+    background-color: rgb(53, 66, 74);
+    width: 1100px;
+    padding: 20px;
+    font-size: 15px;
+}
+
+.derecha{
+    width: 500px;
+}
+
+.texto3{
+    background-color:rgb(53, 66, 74);
+    width: 350px;
+    padding: 9px 9px;
+}
+.texto3 p{
+    font-size: 15px;
+}
+.texto1 p{
+    font-size: 15px;
+}
+.texto2 p{
+    font-size: 15px;
+}
+
+
+.titulo2{
+    padding: 10px;
+    background-color: rgb(53, 66, 74);
+    width: 350px;
+    color: white;
+}
+
+.imagen img{
+    width: 350px;
+
+}
+.cuadro0{
+    background-color:rgb(53, 66, 74);
+    width: 350px;
+    padding: 20px 10px;
+    
+}
+.cuadro0 h2{
+    color:white;
+  
+
+}
+.izquierda input{
+    width: 650px;
+    color: black;
+
+}
+.botone button{
+    width: 650px;
+    background-color: rgb(240, 73, 44);
+    color: white;
+}
+
+.fila5 input{
+    height: 150px;
+    width: 658px;
+
+}
+
+
